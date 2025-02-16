@@ -1,0 +1,14 @@
+{
+  "name": "Side memo",
+  "version": "0.1",
+  "manifest_version": 3,
+  "description": "Memo",
+  "icons": {
+    "128": "images/icon-128.png",
+    "16": "images/icon-16.png"
+  },
+  "side_panel": {
+    "default_path": "index.html"
+  },
+  "permissions": ["sidePanel", "storage"]
+}
