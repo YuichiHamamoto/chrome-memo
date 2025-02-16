@@ -1,8 +1,8 @@
 {
   "name": "Side memo",
-  "version": "0.1",
+  "version": "1.0.0",
   "manifest_version": 3,
-  "description": "Memo",
+  "description": "A simple markdown memo",
   "icons": {
     "128": "images/icon-128.png",
     "16": "images/icon-16.png"
